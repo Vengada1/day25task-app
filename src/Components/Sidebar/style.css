@@ -1,0 +1,53 @@
+.brandName{
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.emoji{
+    
+    font-size: 40px;    
+}
+.companyName{
+    font-size: 22px;
+    margin: 0 10px ;
+    white-space: 12px;
+    padding: 0;
+}
+/* css-ewdv3l,ps-menuitem-root css-mf2zkt{
+    background-color: rgb(68 106 215);
+} */
+.ps-menu-button{
+    background-color: white;
+    margin-right:0px;
+    margin-left: 0 !important;
+    padding: 0;
+}
+/* below are sub element class of side bar */
+.ps-submenu-content{
+    border-radius: 15px;
+    margin-right:10px ;
+    font-weight: 400;
+    text-align: center;
+}
+.css-dip3t8{
+    width: 300px;
+    background-color: blue !important; 
+    height: 150% !important;
+}
+.ps-sidebar-root ,.css-1k88rtw{
+    width: 300px !important;
+}
+.css-ewdv3l{
+    background-color: blue;
+}
+.subTabHead{
+    color: white;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin-bottom: -19px;
+}
